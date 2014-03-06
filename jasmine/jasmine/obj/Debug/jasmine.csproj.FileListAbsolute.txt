@@ -1,0 +1,6 @@
+C:\Users\s6\Source\Repos\NewRepo2\jasmine\jasmine\bin\jasmine.dll.config
+C:\Users\s6\Source\Repos\NewRepo2\jasmine\jasmine\bin\jasmine.dll
+C:\Users\s6\Source\Repos\NewRepo2\jasmine\jasmine\bin\jasmine.pdb
+C:\Users\s6\Source\Repos\NewRepo2\jasmine\jasmine\obj\Debug\jasmine.csprojResolveAssemblyReference.cache
+C:\Users\s6\Source\Repos\NewRepo2\jasmine\jasmine\obj\Debug\jasmine.dll
+C:\Users\s6\Source\Repos\NewRepo2\jasmine\jasmine\obj\Debug\jasmine.pdb
